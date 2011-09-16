@@ -66,7 +66,7 @@
             android:title="Silence"
             android:summary="Silence"
             android:key="silencePref"
-            android:defaultValue="-0.90"
+            android:defaultValue="-90.0"
             android:entries="@array/silenceArray"
             android:entryValues="@array/silenceValues" />
         <ListPreference
