@@ -1,4 +1,3 @@
-
 ATM (Audio2Midi) for Android
 
 Authors:
@@ -9,7 +8,7 @@ Authors:
 
 1. What is ATM?
     ATM or Audio To Midi is a library for Android devices that recognized and
-    converts raw audio to midi notes. ATM is using aubio, fftw, libsndfile,
+    converts raw audio to midi notes. ATM is using Android ports of aubio, fftw, libsndfile,
     and libsamplerate, see file THANKS for more info.
 
 ===============================================================================
