@@ -667,7 +667,7 @@ public class AudioToMidiDemo extends Activity {
                 + "based on aubio, fftw, libsndfile, and libsamplerate libraries. <br>"
                 + "<br>"
                 + "This program comes with ABSOLUTELY NO WARRANTY; for details see license below."
-                + " This is free software, and you are welcome to redistribute it"
+                + " This is free software, and you are welcome to redistribute it "
                 + "under certain condititions; see license below."
                 + "<br>"
                 + "<br><br>This software is released under GPL license: "
