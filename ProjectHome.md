@@ -1,0 +1,1 @@
+An Audio to Midi conversion library for Android devices. Audio2Midi is based on aubio, fftw, libsndfile, and libsamplerate.
